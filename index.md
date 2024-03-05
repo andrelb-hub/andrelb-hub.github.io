@@ -19,10 +19,7 @@
 - LaTeX
 - Dynare
 
-<!--
 ## Projects <a name="projects"></a>
-- Project 1: Description and link (if applicable)
-- Project 2: Description and link (if applicable)
--->
+- [My master's thesis][def]
 
-
+[def]: https://github.com/andrlb/mastersthesis
