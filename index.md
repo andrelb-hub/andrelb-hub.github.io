@@ -17,6 +17,7 @@
 - R
 - Power BI
 - LaTeX
+- Dynare
 
 <!--
 ## Projects <a name="projects"></a>
