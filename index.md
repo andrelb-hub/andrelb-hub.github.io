@@ -19,7 +19,9 @@
 - LaTeX
 - Dynare
 
+<!--
 ## Projects <a name="projects"></a>
 - [My master's thesis][def]
 
 [def]: https://github.com/andrlb/mastersthesis
+-->
