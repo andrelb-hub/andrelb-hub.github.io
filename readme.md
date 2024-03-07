@@ -1,5 +1,3 @@
-# André Luiz
-
 1. [Education](#education)
 2. [Experience](#experience)
 3. [Skills](#skills)
