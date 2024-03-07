@@ -14,10 +14,10 @@
   - Macroeconomic Indexes Reports
 
 ## Skills <a name="skills"></a>
-- Dynare
-- LaTeX
-- Power BI
 - R
+- Power BI
+- LaTeX
+- Dynare
 
 ## Projects <a name="projects"></a>
 - [My master's thesis][def]
