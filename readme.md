@@ -15,10 +15,9 @@
 - Dynare
 
 ## Projects
-- [My master's thesis][def]
+- [Regional DSGE Model][def]
 
 [def]: https://github.com/andrlb/mastersthesis
 
 ## Contact
-- andreluizmtg@gmail.com
 - [andreluizmtg@gmail.com](mailto:your@email.com)
