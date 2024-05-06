@@ -18,3 +18,6 @@
 - [My master's thesis][def]
 
 [def]: https://github.com/andrlb/mastersthesis
+
+## Contact
+- andreluizmtg@gmail.com
