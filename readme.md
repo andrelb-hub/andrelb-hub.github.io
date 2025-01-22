@@ -3,6 +3,10 @@
 ## Summary
 Regional and Macroeconomy Advisor with extensive experience in ETL, reports and presentations.
 
+<div style="display: flex; justify-content: space-between;">
+
+<div style="flex: 1; padding-right: 10px;">
+
 ## Education
 - MSc in Economic Development, UFPR, Curitiba, Brazil, 2024
 
@@ -17,10 +21,9 @@ Regional and Macroeconomy Advisor with extensive experience in ETL, reports and 
 - LaTeX (Advanced)
 - Dynare (Intermediate)
 
-| R (advanced) | Power BI (advanced) |
-| LaTeX (advanced) | Dynare (intermediate) |
-| Portuguese (native) | English (proficiency) |
+</div>
 
+<div style="flex: 1; padding-left: 10px;">
 
 ## Projects
 - [Regional DSGE Model][def]
@@ -28,6 +31,9 @@ Regional and Macroeconomy Advisor with extensive experience in ETL, reports and 
 
 [def]: https://github.com/andrlb/mastersthesis
 [def2]: https://github.com/andrlb/_myRtools
+
+</div>
+</div>
 
 ## Contact
 - [andreluizmtg@gmail.com](mailto:andreluizmtg@gmail.com)
