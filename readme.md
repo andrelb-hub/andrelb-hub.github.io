@@ -1,16 +1,16 @@
 # André Luiz
 
 ## Summary
-Regional and Macroeconomy Advisor with extensive experience in ETL, reports and presentations.
+Macroeconomy Advisor with experience in ETL, reports and presentations.
 
 ## Education
 - MSc in Economic Development, UFPR, Curitiba, Brazil, 2024
 
 ## Experience
-- Banco do Brasil, Brasília, Brazil, 2023 - Present:
-  - Regional Economy Advisor, 2023 - 2024
+- Banco do Brasil, Brasília, Brazil:
   - Macroeconomy Advisor, 2024 - Present
-
+  - Regional Economy Advisor, 2023 - 2024
+  
 ## Skills
 - R (Advanced)
 - Bloomberg Terminal (Advanced)
