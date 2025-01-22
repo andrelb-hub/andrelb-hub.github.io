@@ -1,21 +1,21 @@
 # André Luiz
 
-## Summary
+### Summary
 Regional and Macroeconomy Advisor with extensive experience in ETL, reports and presentations.
 
 <div style="display: flex; justify-content: space-between;">
 
 <div style="flex: 1; padding-right: 10px;">
 
-## Education
+### Education
 - MSc in Economic Development, UFPR, Curitiba, Brazil, 2024
 
-## Experience
+### Experience
 - Banco do Brasil, Brasília, Brazil, 2023 - Present:
   - Regional Economy Advisor, 2023 - 2024
   - Macroeconomy Advisor, 2024 - Present
 
-## Skills
+### Skills
 - R (Advanced)
 - Power BI (Advanced)
 - LaTeX (Advanced)
@@ -25,7 +25,7 @@ Regional and Macroeconomy Advisor with extensive experience in ETL, reports and 
 
 <div style="flex: 1; padding-left: 10px;">
 
-## Projects
+### Projects
 - [Regional DSGE Model][def]
 - [My R tools][def2]
 
@@ -35,5 +35,5 @@ Regional and Macroeconomy Advisor with extensive experience in ETL, reports and 
 </div>
 </div>
 
-## Contact
+### Contact
 - [andreluizmtg@gmail.com](mailto:andreluizmtg@gmail.com)
