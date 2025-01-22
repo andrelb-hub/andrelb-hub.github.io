@@ -13,6 +13,7 @@ Regional and Macroeconomy Advisor with extensive experience in ETL, reports and 
 
 ## Skills
 - R (Advanced)
+- Bloomberg Terminal (Advanced)
 - Power BI (Advanced)
 - LaTeX (Advanced)
 - Dynare (Intermediate)
