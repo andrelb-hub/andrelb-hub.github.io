@@ -23,7 +23,7 @@ Macroeconomy Advisor with experience in ETL, reports and presentations.
 - [My Plots & Tables][def2]
 
 [def]: https://github.com/andrlb/mastersthesis
-[def2]: https://github.com/andrlb/_viz
+[def2]: https://github.com/andrlb/viz
 
 ## Contact
 - [andreluizmtg@gmail.com](mailto:andreluizmtg@gmail.com)
