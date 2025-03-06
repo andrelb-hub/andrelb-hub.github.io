@@ -1,4 +1,4 @@
-# André Luiz
+# André Luiz, MSc
 
 ## Summary
 Macroeconomy Consultant with experience in ETL, reports and presentations.
