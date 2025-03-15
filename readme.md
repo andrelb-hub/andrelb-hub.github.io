@@ -20,10 +20,10 @@ Macroeconomy Consultant with experience in ETL, reports and presentations.
 
 ## Projects
 - [Regional DSGE Model][def]
-- [My Plots & Tables][def2]
+<!-- - [My Plots & Tables][def2] -->
 
 [def]: https://github.com/andrelb-hub/mastersthesis
-[def2]: https://github.com/andrelb-hub/viz
+<!-- [def2]: https://github.com/andrelb-hub/viz -->
 
 ## Contact
 - [andreluizmtg@gmail.com](mailto:andreluizmtg@gmail.com)
