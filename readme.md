@@ -4,7 +4,7 @@
 Macroeconomy Consultant with experience in ETL, reports and presentations.
 
 ## Education
-- MSc in Economic Development, UFPR, Curitiba, Brazil, 2024
+- MSc in Economic Development, UFPR, Curitiba, Brazil, 2024.
 
 ## Experience
 - Banco do Brasil, Brasília, Brazil:
